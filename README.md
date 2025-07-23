@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mayur+U!;AOSP+Developer+for+Redwood;Flutter+%26+Dart+Learner;Love+Open+Source+%F0%9F%92%BB" />
 </p>
@@ -73,8 +72,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Mist%20OS-Official-9cf?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Axion%20OS-Official-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rising%20OS-Official-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Revived%20OS-Official-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rising%20Revived-Official-blueviolet?style=for-the-badge" />
 </p>
 
 <p align="center">
