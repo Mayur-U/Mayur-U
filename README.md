@@ -5,7 +5,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayur-U&label=Profile%20Views&color=#0078ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mayur-U&label=Profile%20Views&color=0078ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- Main Heading -->
