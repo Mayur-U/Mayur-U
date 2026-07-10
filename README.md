@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mayur+U;AOSP+%7C+Custom+ROM+Developer;Redwood+Device+Maintainer;crDroid+%7C+Mist+OS+%7C+Axion+OS+Maintainer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mayur+U;AOSP+%7C+Custom+ROM+Developer;Former+Redwood+Device+Maintainer;crDroid+%7C+Mist+OS+%7C+Axion+OS;Open+Source+Contributor" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -10,14 +10,18 @@
 
 <!-- Main Heading -->
 <h1 align="center">Mayur U</h1>
-<h3 align="center">AOSP & Custom ROM Developer | Redwood Device Maintainer</h3>
+<h3 align="center">AOSP & Custom ROM Developer</h3>
 
 <hr>
 
 <!-- About Section -->
 <p align="center">
-  I am an Android Open Source Project (AOSP) developer and official maintainer for multiple custom ROMs on the Redwood platform.  
-  My work focuses on stability, performance optimization, feature integration, and delivering reliable builds for the community.
+  I am an Android Open Source Project (AOSP) developer, previously an official maintainer for multiple custom ROMs on the Redwood platform.
+  My work focused on stability, performance optimization, feature integration, and delivering reliable builds for the community.
+</p>
+
+<p align="center">
+  🔭 Currently working on AI-driven decision intelligence and supply chain optimization systems at <a href="https://www.asista.com/">Asista</a>
 </p>
 
 ---
@@ -50,15 +54,14 @@
 
 ---
 
-<h2 align="center">ROMs I Maintain</h2>
+<h2 align="center">ROMs I've Worked On</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Mist%20OS-Official-9cf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Axion%20OS-Official-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/crDroid-Official-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mist%20OS-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Axion%20OS-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/crDroid-lightgrey?style=for-the-badge" />
 </p>
-
 <p align="center">
-  Official maintainer for <strong>Redwood</strong> across multiple active custom ROM projects.
+  Previously maintained builds for <strong>Redwood</strong> across these custom ROM projects.
 </p>
 
 ---
@@ -79,9 +82,6 @@
 ---
 
 <h2 align="center">GitHub Analytics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-U&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-U&theme=tokyonight" />
 </p>
